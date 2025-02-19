@@ -1,0 +1,1578 @@
+FECHA,LOCAL,Goles_Local,Goles_Visitante,VISITANTE,RTC
+31/01/2018,México,1,1,Bosnia,E
+26/02/2018,Arabia Saudita,3,0,Moldavia,L
+28/02/2018,Iraq,4,1,Arabia Saudita,L
+22/03/2018,China,0,6,Gales,V
+23/03/2018,Italia,0,2,Argentina,V
+23/03/2018,Arabia Saudita,1,1,Ucrania,E
+23/03/2018,México,3,1,Islandia,L
+23/03/2018,Polonia,0,1,Nigeria,V
+23/03/2018,Rusia,0,3,Brasil,V
+26/03/2018,Gales,0,1,Uruguay,V
+27/03/2018,España,6,1,Argentina,L
+27/03/2018,Bélgica,4,0,Arabia Saudita,L
+27/03/2018,México,0,0,Croacia,E
+27/03/2018,Polonia,3,2,Corea del Sur,L
+27/03/2018,Alemania,0,1,Brasil,V
+09/05/2018,Arabia Saudita,2,0,Argelia,L
+15/05/2018,Arabia Saudita,2,0,Grecia,L
+28/05/2018,Italia,2,1,Arabia Saudita,L
+28/05/2018,México,0,3,Gales,V
+29/05/2018,Argentina,4,0,Haití,L
+02/06/2018,México,1,0,Escocia,L
+03/06/2018,Arabia Saudita,0,3,Perú,V
+03/06/2018,Brasil,2,0,Croacia,L
+08/06/2018,Alemania,2,1,Arabia Saudita,L
+08/06/2018,Polonia,2,2,Chile,E
+09/06/2018,Gales,4,1,Irlanda,L
+09/06/2018,Dinamarca,2,0,México,L
+10/06/2018,Austria,0,3,Brasil,V
+12/06/2018,Lituania,4,0,Polonia,L
+14/06/2018,Rusia,5,0,Arabia Saudita,L
+16/06/2018,Argentina,1,1,Islandia,E
+17/06/2018,Alemania,0,1,México,V
+17/06/2018,Brasil,1,1,Suiza,E
+19/06/2018,Polonia,1,2,Senegal,V
+20/06/2018,Uruguay,1,0,Arabia Saudita,L
+21/06/2018,Argentina,0,3,Croacia,V
+22/06/2018,Brasil,2,0,Costa Rica,L
+23/06/2018,Corea del Sur,1,2,México,V
+24/06/2018,Polonia,0,3,Colombia,V
+25/06/2018,Arabia Saudita,2,1,Egipto,L
+26/06/2018,Nigeria,1,2,Argentina,V
+27/06/2018,México,0,3,Suecia,V
+27/06/2018,Serbia,0,2,Brasil,V
+28/06/2018,Japón,0,1,Polonia,V
+30/06/2018,Francia,4,3,Argentina,L
+02/07/2018,Brasil,0,2,México,V
+02/07/2018,Brasil,2,0,México,L
+06/07/2018,Brasil,1,2,Bélgica,V
+09/08/2018,Inglaterra,1,2,España,V
+09/08/2018,Suiza,6,0,Islandia,L
+05/09/2018,Dinamarca,3,0,Slovakia,L
+06/09/2018,Países Bajos,2,1,Perú,L
+06/09/2018,Alemania,0,0,Francia,E
+06/09/2018,Barbados,1,4,Canadá,V
+07/09/2018,Ecuador,2,0,Jamaica,L
+07/09/2018,Qatar,1,0,RP China,L
+07/09/2018,Argentina,3,0,Guatemala,L
+07/09/2018,México,1,4,Uruguay,V
+07/09/2018,Italia,1,1,Polonia,E
+07/09/2018,Corea del Sur,2,0,Costa Rica,L
+07/09/2018,Alemania,0,0,Francia,E
+07/09/2018,Japón,3,2,Turkmenistan,L
+07/09/2018,Marruecos,3,0,Malaui,L
+07/09/2018,Croacia,1,0,Rusia,L
+07/09/2018,Estados Unidos,0,2,Brasil,V
+07/09/2018,Lituania,0,1,Serbia,V
+07/09/2018,Corea del Sur,2,0,Costa Rica,L
+07/09/2018,México,1,4,Uruguay,V
+07/09/2018,Portugal,1,1,Croacia,E
+08/09/2018,Inglaterra,1,2,España,V
+08/09/2018,Comoros,1,1,Camerún,E
+09/09/2018,Madagascar,2,2,Senegal,E
+09/09/2018,Francia,2,1,Países Bajos,L
+09/09/2018,Dinamarca,2,0,Gales,L
+09/09/2018,Francia,2,1,Países Bajos,L
+09/09/2018,Dinamarca,2,0,Gales,L
+09/09/2018,Marruecos,2,1,Sudáfrica,L
+09/09/2018,Islandia,1,0,Canadá,L
+10/09/2018,Japón,3,0,Costa Rica,L
+10/09/2018,Alemania,2,1, Perú,L
+10/09/2018,Oman,0,1,Japón,V
+10/09/2018,Serbia,2,2,Rumanía,E
+11/09/2018,Ecuador,2,0,Guatemala,L
+11/09/2018,Qatar,3,0,Palestina,L
+11/09/2018,Colombia,0,0,Argentina,E
+11/09/2018,Estados Unidos,1,0,México,L
+11/09/2018,Polonia,1,1,Irlanda,E
+11/09/2018,España,6,0,Croacia,L
+11/09/2018,Marruecos,1,0,Comoras,L
+11/09/2018,Croacia,1,1,Eslovenia,E
+11/09/2018,Brasil,5,0,El Salvador,L
+11/09/2018,Corea del Sur,0,0,Chile,E
+11/10/2018,Iraq,0,4,Argentina,V
+11/10/2018,México,3,2,Costa Rica,L
+11/10/2018,Polonia,2,3,Portugal,V
+11/10/2018,Francia,2,2,Islandia,E
+11/10/2018,Gales,1,4,España,V
+11/10/2018,México,3,2,Costa Rica,L
+11/10/2018,Países Bajos,3,0,Alemania,L
+11/10/2018,Japón,2,1,Uzbekistan,L
+11/10/2018,Montenegro,0,2,Serbia,V
+12/10/2018,Qatar,4,3,Ecuador,L
+12/10/2018,Qatar,4,3,Ecuador,L
+12/10/2018,Arabia Saudita,0,2,Brasil,V
+12/10/2018,Comoras,2,2,Marruecos,E
+12/10/2018,Croacia,2,1,Bulgaria,L
+12/10/2018,Camerún,1,0,Malawi,L
+12/10/2018,Arabia Saudita,0,2,Brasil,V
+12/10/2018,Corea del Sur,2,1,Uruguay,L
+12/10/2018,Corea del Sur,2,1,Uruguay,L
+12/10/2018,Portugal,1,0, Italia,L
+13/10/2018,Senegal,3,0,Sudán,L
+13/10/2018,Países Bajos,3,0,Alemania,L
+13/10/2018,Rep. of Ireland,0,0,Dinamarca,E
+13/10/2018,Liberia,0,2,Marruecos,V
+13/10/2018,Canadá,5,1,Bermudas,L
+14/10/2018,Polonia,0,1,Italia,V
+14/10/2018,Rumanía,0,0,Serbia,E
+15/10/2018,España,2,3,Inglaterra,V
+15/10/2018,Arabia Saudita,1,1,Iraq,E
+15/10/2018,Kuwait,0,4,Australia,V
+15/10/2018,España,2,3,Inglaterra,V
+15/10/2018,Islandia,1,2,Suiza,V
+16/10/2018,Omán,0,0,Ecuador,E
+16/10/2018,Sudán,0,1,Senegal,V
+16/10/2018,Uzbekistán,2,0,Qatar,L
+16/10/2018,Bélgica,1,1,Países Bajos,E
+16/10/2018,Irlanda,0,1,Gales,V
+16/10/2018,Argentina,0,1,Brasil,V
+16/10/2018,México,0,1,Chile,V
+16/10/2018,Francia,2,1,Alemania,L
+16/10/2018,Dinamarca,2,0,Austria,L
+16/10/2018,Colombia,3,1,Costa Rica,L
+16/10/2018,Francia,2,1,Alemania,L
+16/10/2018,Japón,1,0,Arabia Saudita,L
+16/10/2018,Marruecos,2,0,Camerún,L
+16/10/2018,Marruecos,2,0,Chile,L
+16/10/2018,Croacia,0,3,Austria,V
+16/10/2018,Islas Caimán,0,11,Canadá,V
+16/10/2018,Malawi,0,0,Camerún,E
+16/10/2018,Argentina,0,1,Brasil,V
+16/10/2018,Corea del Sur,2,2,Panamá,E
+16/10/2018,Japón,4,3,Uruguay,L
+16/10/2018,Polonia,2,3,Portugal,V
+09/11/2018,Inglaterra,1,0,Suiza,L
+09/11/2018,Inglaterra,1,0,Suiza,L
+14/11/2018,Suiza,0,1,Qatar,V
+14/11/2018,Croacia,1,1,Francia,E
+14/11/2018,Suiza,0,1,Qatar,V
+15/11/2018,Perú,0,2,Ecuador,V
+15/11/2018,Inglaterra,3,0,Estados Unidos,L
+15/11/2018,Polonia,0,1,República Checa,V
+15/11/2018,Croacia,3,2,España,L
+15/11/2018, Chile,2,3,Costa Rica,V
+15/11/2018,Alemania,3,0, Rusia,L
+15/11/2018,Vietnam,0,1,Japón,V
+15/11/2018,Malaui,0,0,Marruecos,E
+16/11/2018,Países Bajos,2,0,Francia,L
+16/11/2018,Gales,1,2,Dinamarca,V
+16/11/2018,Argentina,2,0,México,L
+16/11/2018,Arabia Saudita,1,0,Yemen,L
+16/11/2018,Argentina,2,0,México,L
+16/11/2018,Países Bajos,2,0,Francia,L
+16/11/2018,Gales,1,2,Dinamarca,V
+16/11/2018,Aruba,0,7,Canadá,V
+16/11/2018,Marruecos,2,0,Camerún,L
+16/11/2018,Brasil,1,0,Uruguay,L
+16/11/2018,Brasil,1,0,Uruguay,L
+16/11/2018, Escocia,1,3,Portugal,V
+17/11/2018,Guinea Ecuatorial,0,1,Senegal,V
+17/11/2018,Australia,1,1,Corea del Sur,E
+17/11/2018,Paraguay,0,0,Marruecos,E
+17/11/2018,Serbia,2,1,Montenegro,L
+17/11/2018,Australia,1,1,Corea del Sur,E
+18/11/2018,Inglaterra,2,1,Croacia,L
+18/11/2018,España,1,0,Bosnia y Herzegovina,L
+18/11/2018,Suiza,5,2,Bélgica,L
+19/11/2018,Qatar,2,2,Islandia,E
+19/11/2018,Alemania,2,2,Países Bajos,E
+19/11/2018,Dinamarca,0,0,Rep. of Ireland,E
+19/11/2018, Perú,2,3,Costa Rica,V
+19/11/2018,Alemania,2,2,Países Bajos,E
+19/11/2018,Iran,0,3,Japón,V
+19/11/2018,Dinamarca,0,1,Croacia,V
+19/11/2018,Canadá,4,0,Surinam,L
+20/11/2018,Panamá,1,2,Ecuador,V
+20/11/2018,Argentina,2,0,México,L
+20/11/2018,Jordania,1,1,Arabia Saudita,E
+20/11/2018,Argentina,2,0,México,L
+20/11/2018,Portugal,1,1,Polonia,E
+20/11/2018,Australia,3,0,Líbano,L
+20/11/2018,Francia,1,0,Uruguay,L
+20/11/2018,Túnez,0,1,Marruecos,V
+20/11/2018,Marruecos,0,1,Argentina,V
+20/11/2018,Brasil,1,0,Camerún,L
+20/11/2018,Brasil,1,0,Camerún,L
+20/11/2018,Serbia,4,1,Lituania,L
+20/11/2018,Uzbekistán,0,4,Corea del Sur,V
+20/11/2018,Francia,1,0,Uruguay,L
+20/11/2018, Italia,0,0,Portugal,E
+10/12/2018,Croacia,0,0,Inglaterra,E
+10/12/2018,Bélgica,2,1,Suiza,L
+23/12/2018,Qatar,2,0,Jordania,L
+23/12/2018,Francia,0,1,Croacia,V
+25/12/2018,Qatar,1,0,Kirguizistán,L
+25/12/2018,Croacia,2,1,Dinamarca,L
+27/12/2018,Qatar,0,1,Argelia,V
+27/12/2018,Austria,1,3,Croacia,V
+30/12/2018,Omán,0,5,Australia,V
+31/12/2018,Qatar,1,2,Irán,V
+31/12/2018,Escocia,0,4,Bélgica,V
+31/12/2018,Corea del Sur,0,0,Arabia Saudita,E
+06/01/2019,Jordania,1,0,Australia,L
+08/01/2019,Arabia Saudita,4,0,Corea del Norte,L
+09/01/2019,Qatar,2,0,Líbano,L
+09/01/2019,Islandia,0,3,Bélgica,V
+11/01/2019,Palestina,0,3,Australia,V
+12/01/2019,Líbano,0,2,Arabia Saudita,V
+13/01/2019,RDP de Corea,0,6,Qatar,V
+13/01/2019,Bélgica,2,1,Suiza,L
+15/01/2019,Siria,2,3,Australia,V
+16/01/2019,Irán,0,0,Irak,E
+16/01/2019,Corea del Sur,2,0,China,L
+17/01/2019,Arabia Saudita,0,2,Qatar,V
+17/01/2019,Arabia Saudita,0,2,Qatar,V
+17/01/2019,Bélgica,1,1,Países Bajos,E
+20/01/2019,Irán,2,0,Omán,L
+21/01/2019,Japón,1,0,Arabia Saudita,L
+21/01/2019,Australia,0,0,Uzbekiztán,E
+22/01/2019,Qatar,1,0,Irak,L
+22/01/2019,Bélgica,2,0,Islandia,L
+22/01/2019,Corea del Sur,2,1,Baréin,L
+24/01/2019,China,0,3,Irán,V
+25/01/2019,Corea del Sur,0,1,Qatar,V
+25/01/2019,Suiza,5,2,Bélgica,L
+25/01/2019,Corea del Sur,0,1,Qatar,V
+26/01/2019,Emiratos Árabes Unidos,1,0,Australia,L
+27/01/2019,Estados Unidos,3,0,Panamá,L
+28/01/2019,Irán,0,3,Japón,V
+29/01/2019,Qatar,4,0,Emiratos Árabes Unidos,L
+29/01/2019,Bélgica,3,1,Rusia,L
+01/02/2019,Japón,1,3,Qatar,V
+01/02/2019,Chipre,0,2,Bélgica,V
+02/02/2019,Estados Unidos,2,0,Costa Rica,L
+02/02/2019,Estados Unidos,2,0,Costa Rica,L
+02/02/2019,Alemania,1,1,Serbia,E
+02/02/2019,Japón,1,3,Qatar,V
+07/03/2019,Jamaica,1,3,Estados Unidos,V
+20/03/2019,Gales,1,0,Trinidad y Tobago,L
+20/03/2019,Alemania,1,1,Serbia,E
+21/03/2019,Estados Unidos,1,0,Ecuador,L
+21/03/2019,Países Bajos,4,0,Bielorrusia,L
+21/03/2019,Estados Unidos,1,0,Ecuador,L
+21/03/2019,EAU,2,1,Arabia Saudita,L
+21/03/2019,Austria,0,1,Polonia,V
+21/03/2019,Kosovo,2,2,Dinamarca,E
+21/03/2019,Marruecos,0,1,Gambia,V
+21/03/2019,Haití,0,1,Canadá,V
+22/03/2019,Inglaterra,5,0,República Checa,L
+22/03/2019,Argentina,1,3,Venezuela,V
+22/03/2019,México,3,1,Chile,L
+22/03/2019,Moldova,1,4,Francia,V
+22/03/2019,Túnez,4,0,Swaziland,L
+22/03/2019, Guatemala,1,0,Costa Rica,L
+22/03/2019,Países Bajos,2,3,Alemania,V
+22/03/2019,Japón,0,1,Colombia,V
+22/03/2019,Corea del Sur,1,0,Bolivia,L
+22/03/2019,Uruguay,3,0,Uzbekistán,L
+22/03/2019,Portugal,1,1,Polonia,E
+23/03/2019,Senegal,2,0,Madagascar,L
+23/03/2019,España,2,1, Noruega,L
+23/03/2019,Portugal,1,1,Croacia,E
+23/03/2019,Camerún,3,0,Comoros,L
+23/03/2019,Brasil,1,1,Panamá,E
+23/03/2019,Georgia,0,2,Suiza,V
+24/03/2019,Países Bajos,2,3,Alemania,V
+24/03/2019,Gales,1,0,Eslovaquia,L
+24/03/2019,Polonia,2,0,Letonia,L
+24/03/2019,Canadá,3,0,Haití,L
+25/03/2019,Montenegro,1,5,Inglaterra,V
+25/03/2019,Arabia Saudita,3,2,Guinea Ec.,L
+25/03/2019,Francia,4,0,Islandia,L
+25/03/2019,Costa Rica,1,0, Jamaica,L
+25/03/2019, Bielorrusia,0,2,Alemania,V
+25/03/2019,Japón,1,0,Bolivia,L
+25/03/2019,Portugal,1,1,Serbia,E
+25/03/2019,Tailandia,0,4,Uruguay,V
+25/03/2019,Portugal,0,0, Ucrania,E
+26/03/2019,Honduras,0,0,Ecuador,E
+26/03/2019,Senegal,2,1,Malí,L
+26/03/2019,Estados Unidos,1,1,Chile,E
+26/03/2019,Marruecos,0,1,Argentina,V
+26/03/2019,México,4,2,Paraguay,L
+26/03/2019,Suiza,3,3,Dinamarca,E
+26/03/2019,Algeria,1,0,Túnez,L
+26/03/2019, Malta,0,2,España,V
+26/03/2019,Marruecos,2,3,Zambia,V
+26/03/2019,España,6,0,Croacia,L
+26/03/2019,República Checa,1,3,Brasil,V
+26/03/2019,Suiza,3,3,Dinamarca,E
+26/03/2019,Corea del Sur,2,1,Colombia,L
+06/05/2019,Estados Unidos,0,1,Jamaica,V
+06/05/2019,Portugal,3,1,Suiza,L
+09/05/2019,Irlanda,1,1,Suiza,E
+09/05/2019,Corea del Sur,2,2,Georgia,E
+09/05/2019, República Checa,0,4,Portugal,V
+01/06/2019,Venezuela,1,1,Ecuador,E
+01/06/2019,Marruecos,1,0,Namibia,L
+02/06/2019,Francia,2,0,Bolivia,L
+05/06/2019,Brasil,2,0,Qatar,L
+05/06/2019,México,3,1,Venezuela,L
+05/06/2019, Perú,1,0,Costa Rica,L
+05/06/2019,Alemania,8,0, Estonia,L
+05/06/2019,Japón,0,0,Trinidad and Tobago,E
+05/06/2019,Bélgica,3,0,Kazajistán,L
+05/06/2019,Brasil,2,0,Qatar,L
+06/06/2019,Países Bajos,3,1,Inglaterra,L
+06/06/2019,Países Bajos,3,1,Inglaterra,L
+06/06/2019,Irán,5,0,Siria,L
+06/06/2019,Canadá,4,1,Martinica,L
+07/06/2019,Argentina,5,1,Nicaragua,L
+07/06/2019,Macedonia,0,1,Polonia,V
+07/06/2019,Corea del Sur,1,0,Australia,L
+07/06/2019,Dinamarca,1,1,Rep. of Ireland,E
+07/06/2019,Túnez,2,0,Iraq,L
+07/06/2019, Islas Feroe,1,4,España,V
+07/06/2019,Ucrania,5,0,Serbia,L
+07/06/2019,Uruguay,3,0,Panamá,L
+07/06/2019,Portugal,1,1,Serbia,E
+08/06/2019,Turquía,2,0,Francia,L
+09/06/2019,México,3,2,Ecuador,L
+09/06/2019,Portugal,1,0,Países Bajos,L
+09/06/2019,Estados Unidos,0,3,México,V
+09/06/2019,Gales,2,1,Azerbaiyán,L
+09/06/2019,México,3,2,Ecuador,L
+09/06/2019,Marruecos,1,0,Costa de Marfil,L
+09/06/2019,Haití,1,4,Canadá,V
+09/06/2019,Camerún,2,1,Zambia,L
+09/06/2019,Brasil,7,0,Honduras,L
+10/06/2019,Polonia,4,0,Israel,L
+10/06/2019,Dinamarca,5,1,Georgia,L
+10/06/2019,España,3,0, Suecia,L
+10/06/2019,Serbia,4,1,Lituania,L
+11/06/2019,Andorra,0,4,Francia,V
+11/06/2019,Croacia,1,2,Túnez,V
+14/06/2019,Mali,1,1,Camerún,E
+14/06/2019,Brasil,3,0,Bolivia,L
+15/06/2019,Argentina,0,2,Colombia,V
+15/06/2019,México,7,0,Cuba,L
+16/06/2019,Uruguay,4,0,Ecuador,L
+16/06/2019,Senegal,1,0,Nigeria,L
+16/06/2019,Paraguay,2,2,Qatar,E
+16/06/2019,Costa Rica,4,0, Nicaragua,L
+16/06/2019,Alemania,2,4,Países Bajos,V
+16/06/2019,Japón,2,0,El Salvador,L
+16/06/2019,Sudáfrica,0,1,Marruecos,V
+16/06/2019,Croacia,0,0,Inglaterra,E
+16/06/2019,Bélgica,3,0,Escocia,L
+16/06/2019,Uruguay,4,0,Ecuador,L
+16/06/2019,Portugal,3,1,Suiza,L
+17/06/2019,Túnez,2,1,Burundi,L
+18/06/2019,Estados Unidos,4,0,Guyana,L
+18/06/2019,Brasil,0,0,Venezuela,E
+19/06/2019,Colombia,1,0,Qatar,L
+19/06/2019,Argentina,1,1,Paraguay,E
+19/06/2019,México,3,1,Canadá,L
+19/06/2019,San Marino,0,4,Bélgica,V
+20/06/2019,Costa Rica,2,1, Bermudas,L
+20/06/2019, Irlanda del Norte,0,2,Alemania,V
+20/06/2019,Japón,0,4,Chile,V
+20/06/2019,Uruguay,2,2,Japón,E
+20/06/2019,Portugal,1,0,Países Bajos,L
+21/06/2019,Ecuador,1,2,Chile,V
+21/06/2019,Marruecos,1,1,Benín,E
+22/06/2019,Estados Unidos,6,0,Trinidad y Tobago,L
+22/06/2019,Perú,0,5,Brasil,V
+23/06/2019,Senegal,2,0,Tanzania,L
+23/06/2019,Qatar,0,2,Argentina,V
+23/06/2019,Qatar,0,2,Argentina,V
+23/06/2019,Martinique,2,3,México,V
+23/06/2019,Croacia,2,1,Jordania,L
+23/06/2019,Escocia,0,4,Bélgica,V
+24/06/2019,Ecuador,1,1,Japón,E
+24/06/2019,Túnez,1,1,Angola,E
+24/06/2019, Haití,2,1,Costa Rica,L
+24/06/2019,Alemania,2,2,Argentina,E
+24/06/2019,Uruguay,2,2,Japón,E
+24/06/2019,Marruecos,1,1,Burkina Faso,E
+24/06/2019,Chile,0,1,Uruguay,V
+24/06/2019,Serbia,2,4,Portugal,V
+25/06/2019,Camerún,2,0,Guinea-Bissau,L
+26/06/2019,Panamá,0,1,Estados Unidos,V
+27/06/2019,Senegal,0,1,Argelia,V
+27/06/2019,Croacia,3,2,España,L
+27/06/2019,Brasil,0,0,Paraguay,E
+28/06/2019,Venezuela,0,2,Argentina,V
+28/06/2019,Túnez,1,1,Mali,E
+29/06/2019,México,1,),Costa Rica,V
+29/06/2019,México,1,1,Costa Rica,E
+29/06/2019, Estonia,0,3,Alemania,V
+29/06/2019,Ecuador,1,1,Japón,E
+29/06/2019,Camerún,0,0,Ghana,E
+29/06/2019,Uruguay,0,0,Perú,E
+29/06/2019, Lituania,1,5,Portugal,V
+30/06/2019,Estados Unidos,1,0,Curazao,L
+01/07/2019,Kenia,0,3,Senegal,V
+01/07/2019,Irán,5,0,Yemen,L
+01/07/2019,Inglaterra,2,1,Croacia,L
+01/07/2019,Corea del Sur,1,0,Filipinas,L
+02/07/2019,Brasil,2,0,Argentina,L
+02/07/2019,Haití,0,1,México,V
+02/07/2019,Mauritania,0,0,Túnez,E
+02/07/2019,Benin,0,0,Camerún,E
+02/07/2019,Brasil,2,0,Argentina,L
+05/07/2019,Uganda,0,1,Senegal,V
+05/07/2019,Croacia,2,1,Azerbaiyán,L
+06/07/2019,Argentina,2,1,Chile,L
+06/07/2019,Nigeria,3,2,Camerún,L
+06/07/2019,Corea del Sur,1,0,Australia,L
+07/07/2019,México,1,0,Estados Unidos,L
+07/07/2019,México,1,0,Estados Unidos,L
+07/07/2019,Brasil,3,1,Perú,L
+08/07/2019,Ghana,1,1,Túnez,E
+09/07/2019,Inglaterra,4,0,Bulgaria,L
+10/07/2019,Senegal,1,0,Benín,L
+10/07/2019,Hungría,2,1,Croacia,L
+11/07/2019,Madagascar,0,3,Túnez,V
+14/07/2019,Senegal,1,0,Túnez,L
+14/07/2019,Senegal,1,0,Túnez,L
+14/07/2019,Croacia,2,1,Gales,L
+17/07/2019,Túnez,0,1,Nigeria,V
+19/07/2019,Senegal,0,1,Argelia,V
+19/07/2019,Croacia,1,2,Túnez,V
+28/07/2019,Liberia,1,0,Senegal,L
+28/07/2019,Eslovaquia,0,4,Croacia,V
+03/08/2019,Senegal,3,0,Liberia,L
+03/08/2019,Azerbaiyán,1,1,Croacia,E
+06/08/2019,Croacia,2,1,Gales,L
+09/08/2019,Suiza,4,0,Gibraltar,L
+05/09/2019,Perú,0,1,Ecuador,V
+05/09/2019,Qatar,6,0,Afganistán,L
+05/09/2019,Chile,0,0,Argentina,E
+05/09/2019,Arabia Saudita,1,1,Mali,E
+05/09/2019,Gibraltar,0,6,Dinamarca,V
+05/09/2019, Rumania,1,2,España,V
+05/09/2019,Marruecos,1,0,Níger,L
+05/09/2019,Bélgica,9,0,San Marino,L
+06/09/2019,Alemania,2,4,Países Bajos,V
+06/09/2019,Suiza,0,0,Inglaterra,E
+06/09/2019,Estados Unidos,0,3,Venezuela,V
+06/09/2019,Estados Unidos,0,3,México,V
+06/09/2019,Eslovenia,2,0,Polonia,L
+06/09/2019,Túnez,1,0,Mauritania,L
+06/09/2019,Costa Rica,1,2,Uruguay,V
+06/09/2019,Alemania,4,0, Bielorrusia,L
+06/09/2019,Japón,2,0,Paraguay,L
+06/09/2019,Estados Unidos,1,0,Canadá,L
+06/09/2019,Brasil,2,2,Colombia,E
+06/09/2019,Suiza,0,0,Inglaterra,E
+06/09/2019,Costa Rica,1,2,Uruguay,V
+06/09/2019,Portugal,3,0, Luxemburgo,L
+06/09/2019,Ghana,1,0,Kenia,L
+07/09/2019,Francia,4,1,Albania,L
+07/09/2019,Serbia,2,4,Portugal,V
+08/09/2019,Georgia,0,0,Dinamarca,E
+08/09/2019,España,4,0, Islas Feroe,L
+09/09/2019,Estonia,0,4,Países Bajos,V
+09/09/2019,Polonia,0,0,Austria,E
+09/09/2019,Costa Rica,0,2,Canadá,V
+10/09/2019,Ecuador,3,0,Bolivia,L
+10/09/2019,Qatar,0,0,India,E
+10/09/2019,Argentina,4,0,México,L
+10/09/2019,Yemen,2,2,Arabia Saudita,E
+10/09/2019,Argentina,4,0,México,L
+10/09/2019,Kuwait,0,3,Australia,V
+10/09/2019,Francia,3,0,Andorra,L
+10/09/2019,Túnez,1,2,Ivory Coast,V
+10/09/2019,Argelia,0,0,Marruecos,E
+10/09/2019,Kazajistán,0,2,Bélgica,V
+10/09/2019,Brasil,0,1,Perú,V
+10/09/2019,Luxemburgo,1,3,Serbia,V
+10/09/2019,Estados Unidos,1,1,Uruguay,E
+10/09/2019, Ucrania,2,1,Portugal,L
+10/09/2019,Ghana,0,0,Sudáfrica,E
+21/09/2019,Senegal,1,0,Guinea,L
+21/09/2019,Túnez,1,0,Libya,L
+21/09/2019,Croacia,3,0,Hungría,L
+02/10/2019,México,2,0,Trinidad/Tobago,L
+09/10/2019,Inglaterra,5,3,Kosovo,L
+09/10/2019,Hong Kong,0,2,Irán,V
+09/10/2019,Estados Unidos,1,1,Uruguay,E
+09/10/2019,Alemania,2,2,Argentina,E
+09/10/2019,Turkmenistán,0,2,Corea del Sur,V
+10/10/2019,Brasil,1,1,Senegal,E
+10/10/2019,Bangladesh,0,2,Qatar,V
+10/10/2019,Países Bajos,3,1,Irlanda del Norte,L
+10/10/2019,Irán,14,0,Camboya,L
+10/10/2019,Eslovaquia,1,1,Gales,E
+10/10/2019,Arabia Saudita,3,0,Singapur,L
+10/10/2019,Letonia,0,3,Polonia,V
+10/10/2019,Australia,5,0,Nepal,L
+10/10/2019, Haití,1,1,Costa Rica,E
+10/10/2019,Alemania,6,1, Irlanda del Norte,L
+10/10/2019,Myan,0,2,Japón,V
+10/10/2019,Gales,1,1,Croacia,E
+10/10/2019,Rusia,1,4,Bélgica,V
+10/10/2019,México,2,1,Canadá,L
+10/10/2019,Brasil,1,1,Senegal,E
+10/10/2019,Serbia,1,0,Paraguay,L
+10/10/2019,Corea del Sur,8,0,Sri Lanka,L
+11/10/2019,Bermudas,1,5,México,V
+11/10/2019,Iceland,0,1,Francia,V
+11/10/2019,Uruguay,1,0,Perú,L
+11/10/2019,Portugal,6,0, Lituania,L
+11/10/2019,Ghana,2,2,Benín,E
+12/10/2019,Dinamarca,1,0,Suiza,L
+12/10/2019,Túnez,0,0,Camerún,E
+12/10/2019, Noruega,1,1,España,E
+12/10/2019,Túnez,0,0,Camerún,E
+13/10/2019,Ecuador,1,6,Argentina,V
+13/10/2019,Bielorrusia,1,2,Países Bajos,V
+13/10/2019,Gales,1,1,Croacia,E
+13/10/2019,Ecuador,1,6,Argentina,V
+13/10/2019,Polonia,2,0,Macedonia,L
+13/10/2019,Costa Rica,1,1, Curazao,E
+13/10/2019,Alemania,1,1,España,E
+13/10/2019,Japón,6,0,mon,L
+13/10/2019,Marruecos,1,1,Libia,E
+13/10/2019,Canadá,1,1,Honduras,E
+13/10/2019,Brasil,1,1,Nigeria,E
+14/10/2019,Bulgaria,0,6,Inglaterra,V
+14/10/2019,Francia,1,1,Turkey,E
+14/10/2019,Lituania,1,2,Serbia,V
+15/10/2019,Qatar,2,1,Omán,L
+15/10/2019,Baréin,1,0,Irán,L
+15/10/2019,Canadá,2,0,Estados Unidos,L
+15/10/2019,Palestina,0,0,Arabia Saudita,E
+15/10/2019,México,3,1,Panamá,L
+15/10/2019,China,1,7,Australia,V
+15/10/2019,Dinamarca,4,0,Luxembourg,L
+15/10/2019, Suecia,1,1,España,E
+15/10/2019,Bélgica,6,1,Chipre,L
+15/10/2019,Suiza,2,0,Irlanda,L
+15/10/2019,Perú,1,1,Uruguay,E
+15/10/2019, Luxemburgo,0,2,Portugal,V
+15/10/2019,Camerún,0,0,Ghana,E
+20/10/2019,Guinea,1,0,Senegal,L
+20/10/2019,Libya,1,2,Túnez,V
+20/10/2019,Croacia,3,1,Eslovaquia,L
+01/11/2019,Kirguistán,0,1,Corea del Sur,V
+06/11/2019,Corea del Sur,1,1,Irán,E
+06/11/2019,Hungría,1,0,Gales,L
+06/11/2019,Corea del Sur,1,1,Irán,E
+10/11/2019,República Checa,2,1,Inglaterra,L
+10/11/2019,Estados Unidos,7,0,Cuba,L
+12/11/2019,Corea del Sur,2,0,Hong Kong,L
+13/11/2019,Senegal,2,0,Congo,L
+13/11/2019,Croacia,2,1,Georgia,L
+13/11/2019,Camerún,0,0,Cape Verde,E
+14/11/2019,Ecuador,3,0,Trinidad y Tobago,L
+14/11/2019,Qatar,2,0,Singapur,L
+14/11/2019,Inglaterra,7,0,Montenegro ,L
+14/11/2019,Irak,2,1,Irán,L
+14/11/2019,Uzbekistán,2,3,Arabia Saudita,V
+14/11/2019,Jordania,0,1,Australia,V
+14/11/2019,Francia,2,1,Moldova,L
+14/11/2019, Curazao,1,2,Costa Rica,V
+14/11/2019,Suiza,1,1,Alemania,E
+14/11/2019,tayi,0,3,Japón,V
+14/11/2019,Marruecos,2,3,Gabón,V
+14/11/2019,Dinamarca,0,2,Bélgica,V
+14/11/2019,Serbia,3,2,Luxemburgo,L
+14/11/2019,Líbano,0,0,Corea del Sur,E
+15/11/2019,Estados Unidos,4,1,Canadá,L
+15/11/2019,Brasil,0,1,Argentina,V
+15/11/2019,Panamá,0,3,México,V
+15/11/2019,Dinamarca,6,0,Gibraltar,L
+15/11/2019,Túnez,4,1,Libya,L
+15/11/2019,España,7,0, Malta,L
+15/11/2019,Brasil,0,1,Argentina,V
+15/11/2019,Suiza,1,0,Georgia,L
+15/11/2019,Hungría,1,2,Uruguay,V
+15/11/2019,Portugal,4,1,Croacia,L
+15/11/2019,Guinea-Bisáu,0,2,Ghana,V
+16/11/2019,Irlanda del Norte,0,0,Países Bajos,E
+16/11/2019,Azerbaiyán,0,2,Gales,V
+16/11/2019,Israel,1,2,Polonia,V
+16/11/2019,Estados Unidos,1,1,Canadá,E
+17/11/2019,Suazilandia,1,4,Senegal,V
+17/11/2019,Kosovo,0,4,Inglaterra,V
+17/11/2019,Albania,0,2,Francia,V
+17/11/2019,Costa Rica,1,1, Haití,E
+17/11/2019,Alemania,3,3, Turquía,E
+17/11/2019,kir,0,2,Japón,V
+17/11/2019,Portugal,4,1,Croacia,L
+17/11/2019,Rwanda,0,1,Camerún,V
+17/11/2019,Serbia,2,2,Ucrania,E
+18/11/2019,Argentina,2,2,Uruguay,E
+18/11/2019,Rep. of Ireland,1,1,Dinamarca,E
+18/11/2019,España,5,0, Rumania,L
+18/11/2019,Gibraltar,1,6,Suiza,V
+18/11/2019,Argentina,2,2,Uruguay,E
+18/11/2019, Suecia,0,1,Portugal,V
+18/11/2019,Ghana,1,1,Túnez,E
+19/11/2019,Ecuador,0,1,Colombia,V
+19/11/2019,Afganistán,0,1,Qatar,V
+19/11/2019,Países Bajos,5,0,Estonia,L
+19/11/2019,Cuba,0,4,Estados Unidos,V
+19/11/2019,Gales,2,1,Hungría,L
+19/11/2019,Arabia Saudita,0,0,Paraguay,E
+19/11/2019,México,2,1,Bermudas,L
+19/11/2019,Polonia,3,2,Eslovenia,L
+19/11/2019,Equatorial Guinea,0,1,Túnez,V
+19/11/2019,Marruecos,3,0,Argelia,L
+19/11/2019,Bélgica,5,1,Islandia,L
+19/11/2019,Canadá,3,0,El Salvador,L
+19/11/2019,Brasil,3,0,Corea del Sur,L
+26/11/2019,Qatar,1,2,Irak,V
+26/11/2019,Inglaterra,2,1,Bélgica,L
+27/11/2019,Arabia Saudita,1,3,Kuwait,V
+29/11/2019,Yemen,0,6,Qatar,V
+29/11/2019,Islandia,1,2,Bélgica,V
+30/11/2019,Bahréin,0,2,Arabia Saudita,V
+01/12/2019,Vietnam,0,2,Irán,V
+02/12/2019,Qatar,4,2,Emiratos Árabes Unidos,L
+02/12/2019,Oman,1,3,Arabia Saudita,V
+02/12/2019,Bélgica,2,0,Inglaterra,L
+05/12/2019,Arabia Saudita,1,0,Qatar,L
+05/12/2019,Arabia Saudita,1,0,Qatar,L
+05/12/2019,Bélgica,4,2,Dinamarca,L
+08/12/2019,Bahréin,1,0,Arabia Saudita,L
+10/12/2019,Dinamarca,1,0,Suiza,L
+15/12/2019,Corea del Sur,1,0,China,L
+18/12/2019,Corea del Sur,1,0,Japón,L
+01/02/2020,Estados Unidos,1,0,Costa Rica,L
+01/02/2020, Ucrania,1,2,Alemania,V
+01/02/2020,Japón,1,4,Venezuela,V
+24/02/2020,Camerún,0,0,Rwanda,E
+09/03/2020,Finlandia,0,1,Gales,V
+09/03/2020,Ucrania,2,1,Suiza,L
+29/03/2020,México,1,1,Canadá,E
+09/05/2020,Islandia,0,1,Inglaterra,V
+28/05/2020,Jamaica,0,0,Canadá,E
+06/06/2020,Canadá,4,1,Panamá,L
+09/06/2020,Gales,1,0,Bulgaria,L
+09/06/2020,Suiza,1,1,Alemania,E
+09/08/2020,Dinamarca,0,0,Inglaterra,E
+03/09/2020,Alemania,1,1,España,E
+03/09/2020,Rusia,3,1,Serbia,L
+04/09/2020,Países Bajos,1,0,Polonia,L
+04/09/2020,Países Bajos,1,0,Polonia,L
+04/09/2020,Canadá,1,0,Costa Rica,L
+05/09/2020,Sweden,0,1,Francia,V
+05/09/2020,Dinamarca,0,2,Bélgica,V
+06/09/2020,España,4,0, Ucrania,L
+06/09/2020,Serbia,0,0,Turquía,E
+07/09/2020,Países Bajos,0,1,Italia,V
+07/09/2020,Bosnia,1,2,Polonia,V
+07/09/2020,Canadá,2,1,México,L
+08/09/2020,Francia,4,2,Croacia,L
+08/09/2020,Dinamarca,0,0,Inglaterra,E
+30/09/2020,México,3,0,Guatemala,L
+03/10/2020,Ecuador,4,2,Uruguay,L
+03/10/2020,Burundi,0,3,Marruecos,V
+07/10/2020,Países Bajos,0,1,México,V
+07/10/2020,Países Bajos,0,1,México,V
+07/10/2020,Polonia,5,1,Finlandia,L
+07/10/2020,Francia,7,1,Ucrania,L
+07/10/2020,Dinamarca,4,0,Faroe Islands,L
+07/10/2020,Portugal,0,0,España,E
+07/10/2020,Honduras,0,2,Canadá,V
+08/10/2020,Argentina,1,0,Ecuador,L
+08/10/2020,Argentina,1,0,Ecuador,L
+08/10/2020,Marruecos,0,0,Mauritania,E
+08/10/2020,Noruega,1,2,Serbia,V
+08/10/2020,Uruguay,2,1,Chile,L
+08/10/2020,Portugal,0,0,España,E
+08/10/2020,Ghana,0,1,Burkina Faso,V
+09/10/2020,Marruecos,3,1,Senegal,L
+09/10/2020,Túnez,3,0,Sudan,L
+09/10/2020,Francia,4,2,Croacia,L
+09/10/2020,Japón,0,0,Camerún,E
+09/10/2020,Brasil,5,0,Bolivia,L
+10/10/2020,España,1,0,Suiza,L
+10/10/2020,Costa Rica,0,1, Panamá,V
+10/10/2020,Alemania,3,3,Suiza,E
+10/10/2020,China,1,2,Japón,V
+10/10/2020,España,1,0,Suiza,L
+11/10/2020,Bosnia-Herzegovina,0,0,Países Bajos,E
+11/10/2020,Polonia,0,0,Italia,E
+11/10/2020,Francia,0,0,Portugal,E
+11/10/2020,Iceland,0,3,Dinamarca,V
+11/10/2020,Canadá,2,0,Estados Unidos,L
+11/10/2020,Serbia,0,1,Hungría,V
+12/10/2020,Ghana,5,1,Qatar,L
+12/10/2020,Bélgica,3,1,Gales,L
+13/10/2020,Senegal,0,0,Mauritania,E
+13/10/2020,Bolivia,1,2,Argentina,V
+13/10/2020,México,2,2,Argelia,E
+13/10/2020,Nigeria,1,1,Túnez,E
+13/10/2020, Ucrania,1,0,España,L
+13/10/2020,Costa Rica,0,1, Panamá,V
+13/10/2020,Alemania,1,0, República Checa,L
+13/10/2020,Japón,5,0,hong ,L
+13/10/2020,Croacia,2,1,Suecia,L
+13/10/2020,Camerún,0,0,South Sudan,E
+13/10/2020,Perú,2,4,Brasil,V
+13/10/2020,Alemania,3,3,Suiza,E
+13/10/2020,Ecuador,4,2,Uruguay,L
+13/10/2020,Francia,0,0,Portugal,E
+13/10/2020,Burkina Faso,0,0,Ghana,E
+14/10/2020,Italia,1,1,Países Bajos,E
+14/10/2020,Inglaterra,0,1,Dinamarca,V
+14/10/2020,Bulgaria,0,1,Gales,V
+14/10/2020,Polonia,3,0,Bosnia,L
+14/10/2020,Croacia,1,2,Francia,V
+14/10/2020,Inglaterra,0,1,Dinamarca,V
+14/10/2020,El Salvador,0,2,Canadá,V
+14/10/2020,Turquía,2,2,Serbia,E
+10/11/2020,Inglaterra,2,1,Bélgica,L
+10/11/2020,Irlanda,0,0,Gales,E
+11/11/2020,Senegal,2,0,Guinea-Bissau,L
+11/11/2020,Países Bajos,1,1,España,E
+11/11/2020,Polonia,2,0,Ucrania,L
+11/11/2020,Francia,0,2,Finland,V
+11/11/2020,Dinamarca,2,0,Sweden,L
+11/11/2020,Países Bajos,1,1,España,E
+11/11/2020,Croacia,1,2,Francia,V
+11/11/2020,Costa Rica,1,0,Canadá,L
+12/11/2020,Bolivia,2,3,Ecuador,V
+12/11/2020,Argentina,1,1,Paraguay,E
+12/11/2020,Marruecos,4,1,República Centroafricana,L
+12/11/2020,Camerún,4,1,Mozambique,L
+12/11/2020,Serbia,1,1,Escocia,E
+13/11/2020,Costa Rica,1,1,Qatar,E
+13/11/2020,Túnez,1,0,Tanzania,L
+13/11/2020,Costa Rica,1,1,Qatar,E
+13/11/2020,Alemania,3,1, Ucrania,L
+13/11/2020,Japón,0,0,Camerún,E
+13/11/2020,República Checa,1,1,Bélgica,E
+13/11/2020,Brasil,1,0,Venezuela,L
+13/11/2020,Colombia,0,3,Uruguay,V
+13/11/2020,Portugal,3,0, Suecia,L
+13/11/2020,Ghana,2,0,Sudáfrica,L
+14/11/2020,Arabia Saudita,3,0,Jamaica,L
+14/11/2020,México,3,2,Corea del Sur,L
+14/11/2020,Portugal,0,1,Francia,V
+14/11/2020,Suiza,1,1,España,E
+14/11/2020,Suiza,1,1,España,E
+15/11/2020,Guinea-Bissau,0,1,Senegal,V
+15/11/2020,Países Bajos,3,1,Bosnia-Herzegovina,L
+15/11/2020,Bélgica,2,0,Inglaterra,L
+15/11/2020,Gales,1,0,Irlanda,L
+15/11/2020,Italia,2,0,Polonia,L
+15/11/2020,Dinamarca,2,1,Iceland,L
+15/11/2020,Suecia,2,1,Croacia,L
+15/11/2020,Canadá,4,0,Jamaica,L
+15/11/2020,Hungría,1,1,Serbia,E
+16/11/2020,Mozambique,0,2,Camerún,V
+17/11/2020,Ecuador,6,1,Colombia,L
+17/11/2020,Corea del Sur,2,1,Qatar,L
+17/11/2020,Perú,0,2,Argentina,V
+17/11/2020,Arabia Saudita,1,2,Jamaica,V
+17/11/2020,Japón,0,2,México,V
+17/11/2020,Francia,4,2,Sweden,L
+17/11/2020,Tanzania,1,1,Túnez,E
+17/11/2020,España,6,0,Alemania,L
+17/11/2020,República Centroafricana,0,2,Marruecos,V
+17/11/2020,Bélgica,8,0,Bielorrusia,L
+17/11/2020,Uruguay,0,2,Brasil,V
+17/11/2020,Suiza,3,0,Ucrania,L
+17/11/2020,Uruguay,0,2,Brasil,V
+17/11/2020,Portugal,7,0, Andorra,L
+17/11/2020,Santo Tomé y Príncipe,0,1,Ghana,V
+18/11/2020,Polonia,1,2,Países Bajos,V
+18/11/2020,Inglaterra,4,0,Islandia,L
+18/11/2020,Gales,3,1,Finlandia,L
+18/11/2020,Polonia,1,2,Países Bajos,V
+18/11/2020,Bélgica,4,2,Dinamarca,L
+18/11/2020,Panamá,1,0,Canadá,L
+18/11/2020,Serbia,5,0,Rusia,L
+04/12/2020,Qatar,5,0,Bangladesh,L
+04/12/2020,Bélgica,1,1,Grecia,E
+08/01/2021,Estados Unidos,1,0,México,L
+09/01/2021,Finlandia,0,0,Gales,E
+09/01/2021,Suiza,2,1,Grecia,L
+16/01/2021,Camerún,1,0,Zimbabwe,L
+20/01/2021,Camerún,1,1,Mali,E
+24/01/2021,Burkina Faso,0,0,Camerún,E
+25/01/2021,República Dominicana,0,0,Serbia,E
+28/01/2021,Panamá,0,0,Serbia,E
+30/01/2021,DR Congo,1,2,Camerún,V
+31/01/2021,Estados Unidos,7,0,Trinidad y Tobago,L
+03/02/2021,Marruecos,4,0,Camerún,L
+06/02/2021,Inglaterra,1,0,Austria,L
+06/02/2021,Francia,3,0,Gales,L
+06/02/2021,Guinea,2,0,Camerún,L
+07/02/2021,Suiza,1,1,España,E
+09/02/2021,Hungría,0,4,Inglaterra,V
+09/02/2021,Irán,1,0,Siria,L
+09/02/2021,El Salvador,0,0,Estados Unidos,E
+09/02/2021,Corea del Sur,0,0,Irak,E
+06/03/2021,Irán,3,1,Hong Kong,L
+06/03/2021,Honduras,0,1,Estados Unidos,V
+06/03/2021,Suiza,7,0,Liechtenstein,L
+07/03/2021,Ucrania,0,4,Inglaterra,V
+24/03/2021,Qatar,1,0,Luxemburgo,L
+24/03/2021,Turquía,4,2,Países Bajos,L
+24/03/2021,Bélgica,3,1,Gales,L
+24/03/2021,Francia,1,1,Ukraine,E
+24/03/2021,Bélgica,1,0,Croacia,L
+24/03/2021,Canadá,4,0,Curazao,L
+24/03/2021,Serbia,3,2,República de Irlanda,L
+25/03/2021,Inglaterra,5,0,San Marino,L
+25/03/2021,Estados Unidos,4,1,Jamaica,L
+25/03/2021,Arabia Saudita,1,0,Kuwait,L
+25/03/2021,Hungría,3,3,Polonia,E
+25/03/2021,Israel,0,2,Dinamarca,V
+25/03/2021,Libya,2,5,Túnez,V
+25/03/2021,España,1,1, Grecia,E
+25/03/2021,Bulgaria,1,3,Suiza,V
+25/03/2021,Japón,3,0,Corea del Sur,L
+26/03/2021,Congo,0,0,Senegal,E
+26/03/2021,Croacia,2,3,Portugal,V
+26/03/2021,Cape Verde,3,1,Camerún,L
+27/03/2021,Qatar,2,1,Azerbaiyán,L
+27/03/2021,Países Bajos,2,0,Letonia,L
+27/03/2021,Gales,1,0,México,L
+27/03/2021,Gales,1,0,México,L
+27/03/2021, Bosnia y Herz.,0,0,Costa Rica,E
+27/03/2021,España,6,0,Alemania,L
+27/03/2021,Japón,1,0,Ivory Coast,L
+27/03/2021,Rusia,3,0,Bélgica,L
+27/03/2021,Honduras,2,1,Canadá,L
+27/03/2021,Serbia,2,2,Portugal,E
+28/03/2021,Albania,0,2,Inglaterra,V
+28/03/2021,Irlanda del Norte,1,2,Estados Unidos,V
+28/03/2021,Polonia,3,0,Andorra,L
+28/03/2021,Kazakhstan,0,2,Francia,V
+28/03/2021,Dinamarca,8,0,Moldova,L
+28/03/2021,Túnez,2,1,Equatorial Guinea,L
+28/03/2021, Georgia,1,2,España,V
+28/03/2021,Suiza,1,0,Lituania,L
+29/03/2021,Ecuador,2,1,Bolivia,L
+29/03/2021,Marruecos,1,0,Togo,L
+30/03/2021,Senegal,1,1,Suazilandia,E
+30/03/2021,Qatar,1,1,República de Irlanda,E
+30/03/2021,Gibraltar,0,7,Países Bajos,V
+30/03/2021,Irán,3,0,Siria,L
+30/03/2021,Gales,1,0,República Checa,L
+30/03/2021,Arabia Saudita,5,0,Palestina,L
+30/03/2021,Costa Rica,0,1,México,V
+30/03/2021,Costa Rica,0,1,México,V
+30/03/2021,Alemania,3,0, Islandia,L
+30/03/2021,Japón,1,0,Panama,L
+30/03/2021,Eslovenia,1,0,Croacia,L
+30/03/2021,Dinamarca,1,2,Bélgica,V
+30/03/2021,Qatar,0,2,Canadá,V
+30/03/2021,Camerún,0,0,Rwanda,E
+30/03/2021,Azerbaiyán,1,2,Serbia,V
+31/03/2021,Inglaterra,2,1,Polonia,L
+31/03/2021,Inglaterra,2,1,Polonia,L
+31/03/2021,Bosnia and Herzegovina,0,1,Francia,V
+31/03/2021,Austria,0,4,Dinamarca,V
+31/03/2021,España,3,1, Kosovo,L
+31/03/2021,Suiza,3,2,Finlandia,L
+06/05/2021,Gales,0,0,Albania,E
+06/05/2021,Corea del Sur,5,0,Turkmenistán,L
+09/05/2021,Inglaterra,4,0,Andorra,L
+09/05/2021,Estados Unidos,1,1,Canadá,E
+09/05/2021,Bielorrusia,2,3,Gales,V
+09/05/2021,Suiza,0,0,Italia,E
+29/05/2021,México,2,1,Islandia,L
+30/05/2021,Suiza,2,1,Estados Unidos,L
+30/05/2021,Suiza,2,1,Estados Unidos,L
+01/06/2021,Polonia,1,1,Rusia,E
+02/06/2021,Países Bajos,2,2,Escocia,E
+02/06/2021,Francia,3,0,Gales,L
+02/06/2021,Alemania,1,1,Dinamarca,E
+02/06/2021,Canadá,0,2,Uruguay,V
+03/06/2021,India,0,1,Qatar,V
+03/06/2021,Argentina,1,1,Chile,E
+03/06/2021,México,0,),Costa Rica,V
+03/06/2021,Kuwait,0,3,Australia,V
+03/06/2021,México,0,0,Costa Rica,E
+03/06/2021, Rumania,0,1,Alemania,V
+03/06/2021,Japón,0,2,México,V
+03/06/2021,Finlandia,0,2,Bélgica,V
+03/06/2021,Uruguay,0,0,Paraguay,E
+03/06/2021,Portugal,0,1,Francia,V
+03/06/2021,Ghana,2,0,Sudán,L
+04/06/2021,Brasil,2,0,Ecuador,L
+04/06/2021,España,0,0,Portugal,E
+04/06/2021,Marruecos,0,0,Ruanda,E
+04/06/2021,Nigeria,0,1,Camerún,V
+04/06/2021,Brasil,2,0,Ecuador,L
+05/06/2021,Senegal,3,1,Zambia,L
+05/06/2021,Arabia Saudita,3,0,Yemen,L
+05/06/2021,Túnez,1,0,DR Congo,L
+05/06/2021,Croacia,1,0,Chipre,L
+06/06/2021,Países Bajos,3,0,Georgia,L
+06/06/2021,Inglaterra,1,0,Rumania,L
+06/06/2021,Estados Unidos,3,2,México,L
+06/06/2021,Estados Unidos,3,2,México,L
+06/06/2021,Dinamarca,2,0,Bosnia and Herzegovina,L
+06/06/2021, Honduras,2,2,Costa Rica,E
+06/06/2021,Alemania,1,2, Macedonia,V
+06/06/2021,Japón,3,0,Corea del Sur,L
+07/06/2021,Omán,0,1,Qatar,V
+07/06/2021,Australia,5,1,China,L
+07/06/2021,Bélgica,1,0,Portugal,L
+07/06/2021,Serbia,1,1,Jamaica,E
+08/06/2021,Ecuador,1,2,Perú,V
+08/06/2021,Senegal,2,0,Islas de Cabo Verde,L
+08/06/2021,Colombia,2,2,Argentina,E
+08/06/2021,Polonia,2,2,Islandia,E
+08/06/2021,Francia,3,0,Bulgaria,L
+08/06/2021,España,4,0, Lituania,L
+08/06/2021,Uganda,2,5,Marruecos,V
+08/06/2021,Croacia,3,0,Malta,L
+08/06/2021,Camerún,0,0,Nigeria,E
+08/06/2021,Paraguay,0,2,Brasil,V
+08/06/2021,Venezuela,0,0,Uruguay,E
+08/06/2021,Croacia,2,3,Portugal,V
+08/06/2021,Sudán,1,0,Ghana,L
+09/06/2021,Estados Unidos,4,0,Costa Rica,L
+09/06/2021,Alemania,1,1,Dinamarca,E
+09/06/2021,mon,0,14,Japón,V
+11/06/2021,Singapur,0,3,Arabia Saudita,V
+11/06/2021,Australia,3,0,Nepal,L
+11/06/2021,Túnez,0,2,Algeria,V
+11/06/2021,Japón,1,0,Serbia,L
+12/06/2021,México,0,0,Honduras,E
+12/06/2021,Dinamarca,0,1,Finland,V
+13/06/2021,Colombia,1,0,Ecuador,L
+13/06/2021,Países Bajos,3,2,Ucrania,L
+13/06/2021,Inglaterra,1,0,Croacia,L
+13/06/2021,Marruecos,3,1,Zambia,L
+13/06/2021,Brasil,3,0,Venezuela,L
+13/06/2021,Corea del Sur,2,1,Líbano,L
+14/06/2021,Argentina,1,1,Chile,E
+14/06/2021,Polonia,1,2,Eslovaquia,V
+14/06/2021,España,0,0, Suecia,E
+15/06/2021,Irán,1,0,Irak,L
+15/06/2021,Arabia Saudita,3,0,Uzbekistán,L
+15/06/2021,Australia,1,0,Jordania,L
+15/06/2021,Francia,1,0,Alemania,L
+15/06/2021,Túnez,1,0,Mali,L
+16/06/2021,Turquía,0,2,Gales,V
+16/06/2021,Italia,3,0,Suiza,L
+17/06/2021,Países Bajos,2,0,Austria,L
+17/06/2021,Dinamarca,1,2,Bélgica,V
+17/06/2021,Perú,0,4,Brasil,V
+18/06/2021,Inglaterra,0,0,Escocia,E
+18/06/2021,Argentina,1,0,Uruguay,L
+18/06/2021,Argentina,1,0,Uruguay,L
+18/06/2021,Portugal,1,0, Azerbaiyán,L
+18/06/2021,Sudáfrica,1,1,Ghana,E
+19/06/2021,España,1,1,Polonia,E
+19/06/2021,Hungary,1,1,Francia,E
+19/06/2021,España,1,1,Polonia,E
+20/06/2021,Venezuela,2,2,Ecuador,E
+20/06/2021,Italia,1,0,Gales,L
+20/06/2021,Marruecos,4,0,Camerún,L
+20/06/2021,Suiza,3,1,TurquÍa,L
+21/06/2021,ARY de Macedonia,0,3,Países Bajos,V
+21/06/2021,Argentina,1,0,Paraguay,L
+21/06/2021,Russian Federation,1,4,Dinamarca,V
+21/06/2021,Uruguay,1,1,Chile,E
+21/06/2021,Serbia,2,2,Portugal,E
+21/06/2021,Ghana,3,1,Santo Tomé y Príncipe,L
+22/06/2021,República Checa,0,1,Inglaterra,V
+23/06/2021,Ecuador,2,2,Perú,E
+23/06/2021,Suecia,3,2,Polonia,L
+23/06/2021,Portugal,2,2,Francia,E
+23/06/2021,Eslovaquia,0,5,España,V
+23/06/2021,Malí,0,2,Marruecos,V
+23/06/2021,Brasil,2,1,Colombia,L
+24/06/2021,Bolivia,0,2,Uruguay,V
+24/06/2021, Luxemburgo,1,3,Portugal,V
+24/06/2021,Marruecos,1,0,Ghana,L
+26/06/2021,Gales,0,4,Dinamarca,V
+26/06/2021,Gales,0,4,Dinamarca,V
+27/06/2021,Brasil,1,1,Ecuador,E
+27/06/2021,Países Bajos,0,2,República Checa,V
+27/06/2021,Mauritania,0,0,Marruecos,E
+27/06/2021,Ecuador,1,1,Brasil,E
+28/06/2021,Bolivia,1,4,Argentina,V
+28/06/2021,Francia,3,3,Suiza,E
+28/06/2021,Croacia,3,5,España,V
+28/06/2021,Francia,3,3,Suiza,E
+28/06/2021,Uruguay,1,0,Paraguay,L
+28/06/2021,España,0,0,Portugal,E
+28/06/2021,Ghana,0,0,Costa de Marfil,E
+29/06/2021,Inglaterra,2,0,Alemania,L
+30/06/2021,Croatia B,1,3,Qatar,V
+30/06/2021,México,3,0,Panamá,L
+30/06/2021,Bélgica,1,2,Italia,V
+02/07/2021,Suiza,1,1,España,E
+02/07/2021,Brasil,1,0,Chile,L
+03/07/2021,Argentina,3,0,Ecuador,L
+03/07/2021,Argentina,3,0,Ecuador,L
+03/07/2021,México,4,0,Nigeria,L
+03/07/2021,Czech Rep.,1,2,Dinamarca,V
+03/07/2021,Marruecos,1,0,Burundi,L
+03/07/2021,Uruguay,0,0,Colombia,E
+03/07/2021,Portugal,4,0, Israel,L
+03/07/2021,Ghana,1,0,Etiopía,L
+04/07/2021,El Salvador,0,1,Qatar,V
+04/07/2021,Guatemala,0,3,México,V
+04/07/2021,Estonia,2,5,Bélgica,V
+05/07/2021,Brasil,1,0,Perú,L
+06/07/2021,Irán,3,0,Baréin,L
+06/07/2021,Argentina,1,1,Colombia,E
+06/07/2021, Italia,1,1,España,E
+07/07/2021,Senegal,1,2,Namibia,V
+07/07/2021,Inglaterra,2,1,Dinamarca,L
+07/07/2021,Inglaterra,2,1,Dinamarca,L
+07/07/2021,Croacia,1,1,Armenia,E
+09/07/2021,Senegal,1,0,Mozambique,L
+09/07/2021,Irak,0,3,Irán,V
+09/07/2021,Bélgica,1,0,Croacia,L
+09/07/2021,Corea del Sur,1,0,Líbano,L
+10/07/2021,UAE,0,1,Irán,V
+10/07/2021,Estados Unidos,2,0,Jamaica,L
+10/07/2021,Argentina,1,0,Brasil,L
+10/07/2021,México,0,0,Trinidad/Tobago,E
+10/07/2021,Argentina,1,0,Brasil,L
+10/07/2021,Corea del Sur,2,1,Siria,L
+13/07/2021,Senegal,2,1,Zimbabue,L
+13/07/2021,Qatar,3,3,Panamá,E
+13/07/2021,Inglaterra,1,0,Croacia,L
+13/07/2021,Bélgica,3,0,República Checa,L
+14/07/2021,Senegal,2,1,Malaui,L
+14/07/2021,Croacia,1,1,República Checa,E
+15/07/2021,Martinica,1,6,Estados Unidos,V
+16/07/2021,Senegal,2,2,Suazilandia,E
+16/07/2021,Costa Rica,2,1, Surinam,L
+16/07/2021,Alemania,7,1, Letonia,L
+16/07/2021,Japón,10,0,myan,L
+16/07/2021,Croacia,3,1,Escocia,L
+17/07/2021,Granada,0,4,Qatar,V
+17/07/2021,Bielorrusia,0,1,Bélgica,V
+18/07/2021,Sudáfrica,0,0,Senegal,E
+18/07/2021,Estados Unidos,1,0,Canadá,L
+18/07/2021,México,1,0,El Salvador,L
+18/07/2021,Croacia,3,5,España,V
+20/07/2021,Honduras,0,2,Qatar,V
+20/07/2021,Costa Rica,1,0, Jamaica,L
+20/07/2021,Alemania,0,1,Francia,V
+20/07/2021,Japón,4,1,tay,L
+20/07/2021,Bélgica,2,3,Francia,V
+24/07/2021,Qatar,3,2,El Salvador,L
+24/07/2021,México,3,0,Honduras,L
+24/07/2021,Italia,2,1,Bélgica,L
+25/07/2021,Estados Unidos,1,0,Jamaica,L
+25/07/2021,Canadá,2,0,Costa Rica,L
+25/07/2021,Alemania,4,2,Portugal,L
+25/07/2021,Japón,1,0,Serbia,L
+29/07/2021,Qatar,0,1,Estados Unidos,V
+29/07/2021,Qatar,0,1,Estados Unidos,V
+29/07/2021,México,2,1,Canadá,L
+29/07/2021,Bélgica,3,1,Estonia,L
+01/08/2021,Estados Unidos,1,0,México,L
+09/08/2021,Polonia,1,1,Inglaterra,E
+09/08/2021,Honduras,1,4,Estados Unidos,V
+09/08/2021,Gales,0,0,Estonia,E
+09/08/2021,Irlanda del Norte,0,0,Suiza,E
+10/08/2021,República Checa,2,2,Gales,E
+21/08/2021,Costa Rica,0,0, El Salvador,E
+21/08/2021,Alemania,2,2, Hungría,E
+21/08/2021,Japón,5,1,kir,L
+01/09/2021,Senegal,2,0,Togo,L
+01/09/2021,Qatar,0,4,Serbia,V
+01/09/2021,Noruega,1,1,Países Bajos,E
+01/09/2021,Francia,1,1,Bosnia and Herzegovina,E
+01/09/2021,Dinamarca,2,0,Scotland,L
+01/09/2021,Rusia,0,0,Croacia,E
+01/09/2021,Gales,1,1,Bélgica,E
+01/09/2021,Qatar,0,4,Serbia,V
+02/09/2021,Ecuador,2,0,Paraguay,L
+02/09/2021,Venezuela,1,3,Argentina,V
+02/09/2021,Arabia Saudita,3,1,Vietnam,L
+02/09/2021,México,2,1,Jamaica,L
+02/09/2021,Polonia,4,1,Albania,L
+02/09/2021,Australia,3,0,China,L
+02/09/2021, Suecia,2,1,España,L
+02/09/2021, Panamá,0,0,Costa Rica,E
+02/09/2021,Inglaterra,2,0,Alemania,L
+02/09/2021,Japón,0,1,oma,V
+02/09/2021,Marruecos,1,0,Ghana,L
+02/09/2021,Chile,0,1,Brasil,V
+02/09/2021,Perú,1,1,Uruguay,E
+02/09/2021, Hungría,0,3,Portugal,V
+02/09/2021,Sudáfrica,1,0,Ghana,L
+03/09/2021,Túnez,3,0,Equatorial Guinea,L
+03/09/2021,Camerún,2,0,Malawi,L
+04/09/2021,Qatar,1,3,Portugal,V
+04/09/2021,Países Bajos,4,0,Montenegro,L
+04/09/2021,Ukraine,1,1,Francia,E
+04/09/2021,Faroe Islands,0,1,Dinamarca,V
+04/09/2021,Irlanda,2,2,Bélgica,E
+04/09/2021,Serbia,4,1,Luxemburgo,L
+05/09/2021,Ecuador,0,0,Chile,E
+05/09/2021,Costa Rica,0,1,México,V
+05/09/2021,San Marino,1,7,Polonia,V
+05/09/2021,España,4,0, Georgia,L
+05/09/2021,Costa Rica,0,1,México,V
+05/09/2021, Liechtenstein,0,2,Alemania,V
+05/09/2021,China,0,1,Japón,V
+05/09/2021,Marruecos,1,0,Burkina Faso,L
+05/09/2021,Uruguay,4,2,Bolivia,L
+05/09/2021,Alemania,4,2,Portugal,L
+05/09/2021,Ghana,3,1,Zimbabue,L
+06/09/2021,Estados Unidos,4,0,Costa Rica,L
+06/09/2021,Ivory Coast,2,1,Camerún,L
+06/09/2021,Sri Lanka,0,5,Corea del Sur,V
+07/09/2021,Congo,1,3,Senegal,V
+07/09/2021,Luxemburgo,1,1,Qatar,E
+07/09/2021,Países Bajos,6,1,Turquía,L
+07/09/2021,Oman,0,1,Arabia Saudita,V
+07/09/2021,Vietnam,0,1,Australia,V
+07/09/2021,Francia,2,0,Finland,L
+07/09/2021,Dinamarca,5,0,Israel,L
+07/09/2021,Zambia,0,2,Túnez,V
+07/09/2021,Eslovaquia,0,1,Croacia,V
+07/09/2021,Bélgica,3,0,Burkina Faso,L
+07/09/2021,República de Irlanda,1,1,Serbia,E
+08/09/2021,Panamá,1,1,México,E
+08/09/2021,Polonia,1,1,Inglaterra,E
+08/09/2021, Kosovo,0,2,España,V
+08/09/2021,Costa Rica,1,1, Jamaica,E
+08/09/2021,Alemania,6,0, Armenia,L
+08/09/2021,Arabia Saudita,1,0,Japón,L
+09/09/2021,Uruguay,1,0,Ecuador,L
+09/09/2021,Argentina,3,0,Bolivia,L
+09/09/2021,Marruecos,2,0,Sudán,L
+09/09/2021,Brasil,2,0,Perú,L
+09/09/2021,Uruguay,1,0,Ecuador,L
+09/09/2021,Francia,2,2,Portugal,E
+09/09/2021,Zimbabue,0,1,Ghana,V
+10/09/2021,Andorra,0,5,Inglaterra,V
+10/09/2021,Suiza,2,0,Irlanda del Norte,L
+06/10/2021, Italia,1,2,España,V
+07/10/2021,Ecuador,3,0,Bolivia,L
+07/10/2021,Paraguay,0,0,Argentina,E
+07/10/2021,Arabia Saudita,1,0,Japón,L
+07/10/2021,México,1,1,Canadá,E
+07/10/2021,Australia,3,1,Omán,L
+07/10/2021,Bélgica,2,3,Francia,V
+07/10/2021,Túnez,3,0,Mauritania,L
+07/10/2021, Honduras,0,0,Costa Rica,E
+07/10/2021, Islandia,0,4,Alemania,V
+07/10/2021,Japón,2,1,Australia,L
+07/10/2021,Marruecos,5,0,Guinea-Bisáu,L
+07/10/2021,Venezuela,1,3,Brasil,V
+07/10/2021,Uruguay,0,0,Colombia,E
+07/10/2021,Portugal,0,1,Bélgica,V
+07/10/2021,Etiopía,1,1,Ghana,E
+08/10/2021,Letonia,0,1,Países Bajos,V
+08/10/2021,Camerún,3,1,Mozambique,L
+09/10/2021,Senegal,4,1,Namibia,L
+09/10/2021,Portugal,3,0,Qatar,L
+09/10/2021,Polonia,5,0,San Marino,L
+09/10/2021,Moldova,0,4,Dinamarca,V
+09/10/2021,Croacia,3,0,Eslovenia,L
+09/10/2021,Bélgica,1,4,Países Bajos,V
+09/10/2021,Luxemburgo,0,1,Serbia,V
+10/10/2021,Venezuela,2,1,Ecuador,L
+10/10/2021,Panamá,1,0,Estados Unidos,L
+10/10/2021,Argentina,3,0,Uruguay,L
+10/10/2021,México,3,0,Honduras,L
+10/10/2021,España,1,2,Francia,V
+10/10/2021,Mauritania,0,0,Túnez,E
+10/10/2021,España,1,2,Francia,V
+10/10/2021,Costa Rica,2,1, El Salvador,L
+10/10/2021,Alemania,2,1, Rumania,L
+10/10/2021,Vietnam,0,1,Japón,V
+10/10/2021,Guinea-Bisáu,0,3,Marruecos,V
+10/10/2021,Colombia,0,0,Brasil,E
+10/10/2021,Argentina,3,0,Uruguay,L
+10/10/2021,Portugal,2,1, Irlanda,L
+10/10/2021,Ghana,1,0,Sudáfrica,L
+11/10/2021,Países Bajos,6,0,Gibraltar,L
+11/10/2021,Mozambique,0,1,Camerún,V
+12/10/2021,Namibia,1,3,Senegal,V
+12/10/2021,República de Irlanda,4,0,Qatar,L
+12/10/2021,Arabia Saudita,3,2,China,L
+12/10/2021,Albania,0,1,Polonia,V
+12/10/2021,Japón,2,1,Australia,L
+12/10/2021,Dinamarca,1,0,Austria,L
+12/10/2021,Chipre,0,3,Croacia,V
+12/10/2021,Bélgica,6,1,Polonia,L
+12/10/2021,Serbia,3,1,Azerbaiyán,L
+13/10/2021,Estados Unidos,2,1,Costa Rica,L
+13/10/2021,El Salvador,0,2,México,V
+13/10/2021,Estados Unidos,2,1,Costa Rica,L
+13/10/2021, Macedonia,0,4,Alemania,V
+13/10/2021,Oman,0,1,Japón,V
+14/10/2021,Colombia,0,0,Ecuador,E
+14/10/2021,Argentina,1,0,Perú,L
+14/10/2021,Guinea,1,4,Marruecos,V
+14/10/2021,Brasil,4,1,Uruguay,L
+14/10/2021,Brasil,4,1,Uruguay,L
+14/10/2021,Qatar,1,3,Portugal,V
+14/10/2021,Marruecos,1,0,Ghana,L
+27/10/2021,México,2,3,Ecuador,V
+27/10/2021,México,2,3,Ecuador,V
+27/10/2021,Sudán,0,3,Marruecos,V
+06/11/2021,Camboya,0,10,Irán,V
+07/11/2021,Italia,1,1,Inglaterra,E
+07/11/2021,Estados Unidos,1,0,Haití,L
+10/11/2021,Estonia,0,1,Gales,V
+11/11/2021,Ecuador,1,0,Venezuela,L
+11/11/2021,Togo,1,1,Senegal,E
+11/11/2021,Serbia,4,0,Qatar,L
+11/11/2021,Líbano,1,2,Irán,V
+11/11/2021,Australia,0,0,Arabia Saudita,E
+11/11/2021,Australia,0,0,Arabia Saudita,E
+11/11/2021, Grecia,0,1,España,V
+11/11/2021,Marruecos,3,0,Guinea,L
+11/11/2021,Croacia,2,2,Eslovaquia,E
+11/11/2021,Gales,1,1,Bélgica,E
+11/11/2021,Brasil,1,0,Colombia,L
+11/11/2021,Serbia,4,0,Qatar,L
+11/11/2021,Corea del Sur,1,0,UAE,L
+12/11/2021,Uruguay,0,1,Argentina,V
+12/11/2021,Estados Unidos,2,0,México,L
+12/11/2021,Andorra,1,4,Polonia,V
+12/11/2021,Dinamarca,3,1,Faroe Islands,L
+12/11/2021,Canadá,1,0,Costa Rica,L
+12/11/2021,Alemania,9,0, Liechtenstein,L
+12/11/2021,Japón,2,0,china,L
+12/11/2021,Uruguay,0,1,Argentina,V
+12/11/2021, Azerbaiyán,0,3,Portugal,V
+12/11/2021,Gabón,1,1,Ghana,E
+13/11/2021,Montenegro,2,2,Países Bajos,E
+13/11/2021,Gales,5,1,Bielorrusia,L
+13/11/2021,Francia,8,0,Kazakhstan,L
+13/11/2021,Equatorial Guinea,1,0,Túnez,L
+13/11/2021,Malawi,0,4,Camerún,V
+14/11/2021,Senegal,2,0,Congo,L
+14/11/2021,Azerbaiyán,2,2,Qatar,E
+14/11/2021,España,1,0, Suecia,L
+14/11/2021,Malta,1,7,Croacia,V
+14/11/2021,Polonia,0,1,Bélgica,V
+14/11/2021,Portugal,1,2,Serbia,V
+15/11/2021,San Marino,0,10,Inglaterra,V
+15/11/2021,Polonia,1,2,Hungría,V
+15/11/2021,China,1,1,Australia,E
+15/11/2021,Scotland,2,0,Dinamarca,L
+15/11/2021,Suiza,4,0,Bulgaria,L
+16/11/2021,Chile,0,2,Ecuador,V
+16/11/2021,Países Bajos,2,0,Noruega,L
+16/11/2021,Siria,0,3,Irán,V
+16/11/2021,Jamaica,1,1,Estados Unidos,E
+16/11/2021,Gales,1,1,Bélgica,E
+16/11/2021,Argentina,0,0,Brasil,E
+16/11/2021,Vietnam,0,1,Arabia Saudita,V
+16/11/2021,Canadá,2,1,México,L
+16/11/2021,Finland,0,2,Francia,V
+16/11/2021,Túnez,3,1,Zambia,L
+16/11/2021,Costa Rica,2,1, Honduras,L
+16/11/2021, Armenia,1,4,Alemania,V
+16/11/2021,Japón,2,0,Arabia Saudita,L
+16/11/2021,Marruecos,4,0,Palestina,L
+16/11/2021,Camerún,1,0,Ivory Coast,L
+16/11/2021,Argentina,0,0,Brasil,E
+16/11/2021,Irak,0,3,Corea del Sur,V
+16/11/2021,Bolivia,3,0,Uruguay,L
+16/11/2021,Portugal,3,0,Qatar,L
+16/11/2021,Ghana,2,3,Cosmoras,V
+30/11/2021,Qatar,1,0,Bahréin,L
+30/11/2021,Túnez,5,1,Mauritania,L
+30/11/2021,Bélgica,2,1,Gales,L
+01/12/2021,Arabia Saudita,0,1,Jordania,V
+03/12/2021,Omán,1,2,Qatar,V
+03/12/2021,Syria,2,0,Túnez,L
+03/12/2021,Países Bajos,1,0,Bélgica,L
+04/12/2021,El Salvador,1,1,Ecuador,E
+04/12/2021,Palestina,1,1,Arabia Saudita,E
+04/12/2021,Jordania,0,4,Marruecos,V
+06/12/2021,Qatar,3,0,Irak,L
+06/12/2021,Gales,1,1,Suiza,E
+06/12/2021,Túnez,1,0,Arab Emirates,L
+06/12/2021,Islas Vírgenes Estadounidenses,0,8,Canadá,V
+06/12/2021,Gales,1,1,Suiza,E
+07/12/2021,Marruecos,1,0,Arabia Saudita,L
+08/12/2021,México,2,2,Chile,E
+10/12/2021,Qatar,5,0,Emiratos Árabes Unidos,L
+10/12/2021,Inglaterra,1,1,Hungría,E
+10/12/2021,Irán,1,1,Corea del Sur,E
+10/12/2021,Túnez,2,1,Oman,L
+10/12/2021,Canadá,5,0,Dominica,L
+10/12/2021,Lituania,0,4,Suiza,V
+10/12/2021,Irán,1,1,Corea del Sur,E
+11/12/2021,Inglaterra,5,0,Albania,L
+11/12/2021,Estados Unidos,2,0,México,L
+11/12/2021,Italia,1,1,Suiza,E
+15/12/2021,Qatar,1,2,Argelia,V
+15/12/2021,Túnez,1,0,Egypt,L
+15/12/2021,San Cristóbal y Nieves,0,1,Canadá,V
+18/12/2021,Egipto,0,0,Qatar,E
+18/12/2021,Túnez,0,2,Algeria,V
+18/12/2021,Canadá,4,1,Guayana Francesa,L
+02/01/2022,Irán,1,0,UAE,L
+02/01/2022,Siria,0,2,Corea del Sur,V
+06/01/2022,Estados Unidos,3,0,Marruecos,L
+06/01/2022,Polonia,2,1,Gales,L
+09/01/2022,Camerún,2,1,Burkina Faso,L
+12/01/2022,Túnez,0,1,Mali,V
+13/01/2022,Camerún,4,1,Ethiopia,L
+15/01/2022,Islandia,1,5,Corea del Sur,V
+16/01/2022,Túnez,4,0,Mauritania,L
+17/01/2022,Cape Verde,1,1,Camerún,E
+20/01/2022,Gambia,1,0,Túnez,L
+21/01/2022,Corea del Sur,4,0,Moldavia,L
+23/01/2022,Nigeria,0,1,Túnez,V
+24/01/2022,Camerún,2,1,Comoros,L
+27/01/2022,Ecuador,1,1,Brasil,E
+27/01/2022,Irán,1,0,Irak,L
+27/01/2022,Estados Unidos,1,0,El Salvador,L
+27/01/2022,Chile,1,2,Argentina,V
+27/01/2022,Arabia Saudita,1,0,Oman,L
+27/01/2022,Jamaica,1,2,México,V
+27/01/2022,Australia,4,0,Vietnam,L
+27/01/2022,Costa Rica,1,0, Panamá,L
+27/01/2022,Alemania,2,0, Israel,L
+27/01/2022,Australia,0,2,Japón,V
+27/01/2022,Marruecos,1,0,Arabia Saudita,L
+27/01/2022,Ecuador,1,1,Brasil,E
+27/01/2022,Líbano,0,1,Corea del Sur,V
+27/01/2022,Paraguay,0,1,Uruguay,V
+27/01/2022,Portugal,5,0, Luxemburgo,L
+27/01/2022,Ghana,0,0,Nigeria,E
+29/01/2022,Burkina Faso,1,0,Túnez,L
+29/01/2022,Gambia,0,2,Camerún,V
+30/01/2022,Canadá,2,0,Estados Unidos,L
+30/01/2022,México,0,0,Costa Rica,E
+30/01/2022,Países Bajos,1,1,Alemania,E
+30/01/2022,Japón,1,1,vietnam,E
+01/02/2022,Perú,1,1,Ecuador,E
+01/02/2022,Argentina,1,0,Colombia,L
+01/02/2022,Japón,2,0,Arabia Saudita,L
+01/02/2022,Omán,2,2,Australia,E
+01/02/2022,Marruecos,2,2,Argelia,E
+01/02/2022,Brasil,4,0,Paraguay,L
+01/02/2022,Uruguay,4,1,Venezuela,L
+01/02/2022, Irlanda,0,0,Portugal,E
+01/02/2022,Nigeria,1,1,Ghana,E
+02/02/2022,Estados Unidos,3,0,Honduras,L
+02/02/2022,México,1,0,Panamá,L
+02/02/2022, Jamaica,0,1,Costa Rica,V
+02/02/2022, Italia,1,1,Alemania,E
+02/02/2022,Japón,4,1,Paraguay,L
+03/02/2022,Camerún,0,0,Egypt,E
+05/02/2022,Burkina Faso,3,3,Camerún,E
+06/02/2022,Republica Checa,2,1,Suiza,L
+06/02/2022,Corea del Sur,1,5,Brasil,V
+02/03/2022,México,0,0,Costa Rica,E
+24/03/2022,Paraguay,3,1,Ecuador,L
+24/03/2022,Corea del Sur,2,0,Irán,L
+24/03/2022,México,0,0,Estados Unidos,E
+24/03/2022,Gales,2,1,Austria,L
+24/03/2022,China,1,1,Arabia Saudita,E
+24/03/2022,México,0,0,Estados Unidos,E
+24/03/2022,Escocia,1,1,Polonia,E
+24/03/2022,Australia,0,2,Japón,V
+24/03/2022,Costa Rica,1,0,Canadá,L
+24/03/2022,Alemania,1,1,Inglaterra,E
+24/03/2022,Japón,0,1,Brasil,V
+24/03/2022,Marruecos,1,0,Ghana,L
+24/03/2022,Brasil,4,0,Chile,L
+24/03/2022,Hungría,0,1,Serbia,V
+24/03/2022,Corea del Sur,2,0,Irán,L
+24/03/2022,Uruguay,1,0,Perú,L
+24/03/2022,Portugal,1,2,Serbia,V
+24/03/2022,Japón,4,1,Ghana,L
+25/03/2022,Argentina,3,0,Venezuela,L
+25/03/2022,Francia,2,1,Ivory Coast,L
+25/03/2022,Mali,0,1,Túnez,V
+25/03/2022,Camerún,0,1,Algeria,V
+26/03/2022,Qatar,2,1,Bulgaria,L
+26/03/2022,Países Bajos,4,2,Dinamarca,L
+26/03/2022,Inglaterra,2,1,Suiza,L
+26/03/2022,Países Bajos,4,2,Dinamarca,L
+26/03/2022,España,2,1, Albania,L
+26/03/2022,Canadá,4,0,Martinica,L
+26/03/2022,Inglaterra,2,1,Suiza,L
+27/03/2022,Estados Unidos,5,1,Panamá,L
+27/03/2022,Honduras,0,1,México,V
+27/03/2022, El Salvador,1,2,Costa Rica,V
+27/03/2022, Hungría,1,1,Alemania,E
+27/03/2022,Japón,4,1,Ghana,L
+29/03/2022,Ecuador,1,1,Argentina,E
+29/03/2022,Qatar,0,0,Eslovenia,E
+29/03/2022,Países Bajos,1,1,Alemania,E
+29/03/2022,Inglaterra,3,0,Costa de Marfil,L
+29/03/2022,Irán,2,0,Líbano,L
+29/03/2022,Gales,1,1,República Checa,E
+29/03/2022,Ecuador,1,1,Argentina,E
+29/03/2022,Arabia Saudita,1,0,Australia,L
+29/03/2022,Polonia,2,0,Suecia,L
+29/03/2022,Arabia Saudita,1,0,Australia,L
+29/03/2022,Francia,5,0,South Africa,L
+29/03/2022,Dinamarca,3,0,Serbia,L
+29/03/2022,Túnez,0,0,Mali,E
+29/03/2022,España,5,0, Islandia,L
+29/03/2022,Marruecos,2,0,Cosmoras,L
+29/03/2022,México,3,1,Canadá,L
+29/03/2022,Algeria,1,2,Camerún,V
+29/03/2022,Bolivia,0,4,Brasil,V
+29/03/2022,Suiza,1,1,Kosovo,E
+29/03/2022,Dinamarca,3,0,Serbia,L
+29/03/2022,UAE,1,0,Corea del Sur,L
+29/03/2022,Chile,0,2,Uruguay,V
+29/03/2022,Portugal,3,1, Turquía,L
+29/03/2022,Chile,0,0,Ghana,E
+30/03/2022,Costa Rica,2,0,Estados Unidos,L
+30/03/2022,México,2,0,El Salvador,L
+30/03/2022,Costa Rica,2,0,Estados Unidos,L
+30/03/2022,Alemania,5,2, Italia,L
+30/03/2022,Japón,3,0,Costa Rica,L
+30/03/2022,Japón,0,3,Túnez,V
+06/04/2022,Hungría,1,0,Inglaterra,L
+27/04/2022,México,0,0,Guatemala,E
+06/05/2022,Estados Unidos,0,0,Uruguay,E
+06/05/2022,Gales,1,0,Ucrania,L
+06/05/2022,Portugal,4,0,Suiza,L
+28/05/2022,México,2,1,Nigeria,L
+01/06/2022,Italia,0,3,Argentina,V
+01/06/2022,Polonia,2,1,Gales,L
+01/06/2022,Jordania,1,2,Australia,V
+02/06/2022,Ecuador,1,0,Nigeria,L
+02/06/2022,México,0,3,Uruguay,V
+02/06/2022,Túnez,4,0,Equatorial Guinea,L
+02/06/2022,España,1,1,Portugal,E
+02/06/2022, Panamá,2,0,Costa Rica,L
+02/06/2022,Alemania,0,1, Hungría,V
+02/06/2022,Japón,3,0,Panama,L
+02/06/2022,Japón,2,0,Estados Unidos,L
+02/06/2022,Gabón,2,2,Marruecos,E
+02/06/2022,Corea del Sur,1,5,Brasil,V
+02/06/2022,Serbia,0,1,Noruega,V
+02/06/2022,México,0,3,Uruguay,V
+02/06/2022,Portugal,2,0, Macedonia,L
+02/06/2022,Brasil,3,0,Ghana,L
+03/06/2022,Bélgica,1,4,Países Bajos,V
+03/06/2022,Francia,1,2,Dinamarca,V
+03/06/2022,Francia,1,2,Dinamarca,V
+05/06/2022,México,0,0,Ecuador,E
+05/06/2022,Argentina,5,0,Estonia,L
+05/06/2022,Colombia,1,0,Arabia Saudita,L
+05/06/2022,México,0,0,Ecuador,E
+05/06/2022,Botswana,0,0,Túnez,E
+05/06/2022, República Checa,2,2,España,E
+05/06/2022,Marruecos,2,1,Malaui,L
+05/06/2022,Serbia,4,1,Eslovenia,L
+05/06/2022,Estados Unidos,0,0,Uruguay,E
+05/06/2022,España,1,1,Portugal,E
+05/06/2022,Nicaragua,0,1,Ghana,V
+06/06/2022,Croacia,1,1,Francia,E
+06/06/2022,Austria,1,2,Dinamarca,V
+06/06/2022,Japón,0,1,Brasil,V
+06/06/2022,Corea del Sur,2,0,Chile,L
+07/06/2022,Emiratos Árabes Unidos,1,2,Australia,V
+08/06/2022,Gales,1,2,Países Bajos,V
+08/06/2022,Bélgica,6,1,Polonia,L
+09/06/2022,Venezuela,1,0,Arabia Saudita,L
+09/06/2022,Suiza,0,1,España,V
+09/06/2022,Burundi,0,1,Camerún,V
+09/06/2022,Suecia,0,1,Serbia,V
+10/06/2022,Austria,1,1,Francia,E
+10/06/2022,Dinamarca,0,1,Croacia,V
+10/06/2022,Brasil,5,1,Túnez,L
+11/06/2022,Ecuador,1,0,Islas de Cabo Verde,L
+11/06/2022,Países Bajos,2,2,Polonia,E
+11/06/2022,México,3,0,Surinam,L
+11/06/2022,Países Bajos,2,2,Polonia,E
+11/06/2022,Egipto,2,1,Marruecos,L
+11/06/2022,Uruguay,5,0,Panamá,L
+11/06/2022,Portugal,4,0,Suiza,L
+12/06/2022,España,2,0, República Checa,L
+12/06/2022,Eslovenia,2,2,Serbia,E
+13/06/2022,Perú,0,0,Nueva Zelanda,E
+13/06/2022,Francia,0,1,Croacia,V
+13/06/2022,Dinamarca,2,0,Austria,L
+14/06/2022,Países Bajos,3,2,Gales,L
+14/06/2022,Inglaterra,0,4,Hungría,V
+14/06/2022,El Salvador,1,1,Estados Unidos,E
+14/06/2022,Países Bajos,3,2,Gales,L
+14/06/2022,Jamaica,1,1,México,E
+14/06/2022,Polonia,0,1,Bélgica,V
+14/06/2022,Costa Rica,1,0, Nueva Zelanda,L
+14/06/2022,Inglaterra,3,3,Alemania,E
+14/06/2022,Japón,4,3,Uruguay,L
+14/06/2022,Japón,0,0,Ecuador,E
+14/06/2022,Corea del Sur,4,1,Egipto,L
+06/07/2022,Alemania,1,1,Inglaterra,E
+20/07/2022,China,0,3,Corea del Sur,V
+24/07/2022,Corea del Sur,3,0,Hong Kong,L
+27/07/2022,Japón,3,0,Corea del Sur,L
+30/07/2022,Lazio,0,0,Qatar,E
+30/07/2022,Canadá,7,0,Cuba,L
+06/08/2022,Gales,1,2,Países Bajos,V
+20/08/2022,Qatar,2,2,Marruecos,E
+20/08/2022,Haití,3,2,Canadá,L
+23/08/2022,Qatar,2,1,Ghana A',L
+23/08/2022,Canadá,6,0,Cuba,L
+26/08/2022,Qatar,1,1,Jamaica,E
+26/08/2022,Cuba,0,1,Canadá,V
+28/08/2022,Equatorial Guinea,1,0,Camerún,L
+31/08/2022,México,0,1,Paraguay,V
+03/09/2022,Camerún,2,0,Equatorial Guinea,L
+06/09/2022,Suiza,0,1,España,V
+20/09/2022,Qatar,0,3,Croatia U23,V
+20/09/2022,Canadá,2,0,Estados Unidos,L
+22/09/2022,Polonia,0,2,Países Bajos,V
+22/09/2022,Bélgica,2,1,Gales,L
+22/09/2022,Polonia,0,2,Países Bajos,V
+22/09/2022,Australia,1,0,Nueva Zelanda,L
+22/09/2022,Francia,2,0,Austria,L
+22/09/2022,Croacia,2,1,Dinamarca,L
+23/09/2022,Arabia Saudita,0,0,Ecuador,E
+23/09/2022,Qatar,0,2,Canadá,V
+23/09/2022,Italia,1,0,Inglaterra,L
+23/09/2022,Irán,1,0,Uruguay,L
+23/09/2022,Japón,2,0,Estados Unidos,L
+23/09/2022,Argentina,3,0,Honduras,L
+23/09/2022,Arabia Saudita,0,0,Ecuador,E
+23/09/2022,Corea del Sur,2,2,Costa Rica,E
+23/09/2022,Japón,1,1,Venezuela,E
+23/09/2022,RD Congo,1,1,Marruecos,E
+23/09/2022,Estados Unidos,4,1,Canadá,L
+23/09/2022,Camerún,0,2,Uzbekistan,V
+23/09/2022,Brasil,3,0,Ghana,L
+23/09/2022,Corea del Sur,2,2,Costa Rica,E
+23/09/2022,Irán,1,0,Uruguay,L
+23/09/2022,Portugal,2,0, República Checa,L
+24/09/2022,México,1,0,Perú,L
+24/09/2022,España,1,2,Suiza,V
+24/09/2022,España,1,2,Suiza,V
+24/09/2022,Serbia,4,1,Suecia,L
+25/09/2022,Países Bajos,1,0,Bélgica,L
+25/09/2022,Gales,0,1,Polonia,V
+25/09/2022,Gales,0,1,Polonia,V
+25/09/2022,Nueva Zelanda,0,2,Australia,V
+25/09/2022,Dinamarca,2,0,Francia,L
+25/09/2022,Dinamarca,2,0,Francia,L
+26/09/2022,Inglaterra,3,3,Alemania,E
+27/09/2022,Japón,0,0,Ecuador,E
+27/09/2022,Qatar,2,2,Chile,E
+27/09/2022,Senegal,1,1,Irán,E
+27/09/2022,Arabia Saudita,0,0,Estados Unidos,E
+27/09/2022,Argentina,3,0,Jamaica,L
+27/09/2022,Arabia Saudita,0,0,Estados Unidos,E
+27/09/2022,México,2,3,Colombia,V
+27/09/2022,Portugal,0,1,España,V
+27/09/2022, Uzbekistán,1,2,Costa Rica,V
+27/09/2022,Japón,4,0,Kyrgyzstan,L
+27/09/2022,Marruecos,4,1,RD Congo,L
+27/09/2022,Barbados,1,4,Canadá,V
+27/09/2022,Corea del Sur,1,0,Camerún,L
+27/09/2022,Brasil,5,1,Túnez,L
+27/09/2022,Suiza,2,1,República Checa,L
+27/09/2022,Noruega,0,2,Serbia,V
+27/09/2022,Corea del Sur,1,0,Camerún,L
+27/09/2022,Canadá,0,2,Uruguay,V
+27/09/2022,Suiza,1,0,Portugal,L
+06/10/2022,Estados Unidos,5,0,Granada,L
+06/10/2022,Corea del Sur,2,2,Paraguay,E
+06/11/2022,Inglaterra,0,0,Italia,E
+06/11/2022,Gales,1,1,Bélgica,E
+11/11/2022,Irak,0,0,Ecuador,E
+11/11/2022,Estados Unidos,3,0,Marruecos,L
+06/12/2022,Irán,1,2,Argelia,V
+06/12/2022,Suiza,1,0,Portugal,L
